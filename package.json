@@ -1,0 +1,17 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Utku Karaaslan",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
